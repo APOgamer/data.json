@@ -1,0 +1,226 @@
+[
+  {
+    "nombre": "Ocho Rios",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/9234/9493/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Ocho Rios"
+  },
+  {
+    "nombre": "Ciudad de Panamá",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/2356/23656/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "5 días/4 noches",
+    "precio": "USD530S/1,973",
+    "ubicacion": "Ciudad de Panamá"
+  },
+  {
+    "nombre": "La Habana",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1739/23445/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "7 días/6 noches",
+    "precio": "USD700S/2,606",
+    "ubicacion": "La Habana"
+  },
+  {
+    "nombre": "Medellín",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/8154/23692/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "USD323S/1,202",
+    "ubicacion": "Medellín"
+  },
+  {
+    "nombre": "Playa Blanca, Panamá",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/5762/23829/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Playa Blanca, Panamá"
+  },
+  {
+    "nombre": "Cusco",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/3737/23326/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "USD140S/521",
+    "ubicacion": "Cusco"
+  },
+  {
+    "nombre": "Arequipa",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/5764/23336/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "5 días/4 noches",
+    "precio": "USD129S/480",
+    "ubicacion": "Arequipa"
+  },
+  {
+    "nombre": "Cancún",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/528/23356/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "7 días/6 noches",
+    "precio": "USD522S/1,943",
+    "ubicacion": "Cancún"
+  },
+  {
+    "nombre": "Cartagena de Indias",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/8152/15808/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "5 días/4 noches",
+    "precio": "USD353S/1,314",
+    "ubicacion": "Cartagena de Indias"
+  },
+  {
+    "nombre": "Punta Cana",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/606/20489/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "5 días/4 noches",
+    "precio": "USD528S/1,965",
+    "ubicacion": "Punta Cana"
+  },
+  {
+    "nombre": "Máncora",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/47225/19588/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "USD192S/715",
+    "ubicacion": "Máncora"
+  },
+  {
+    "nombre": "Zorritos",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/47224/18762/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "9 días/8 noches",
+    "precio": "USD242S/901",
+    "ubicacion": "Zorritos"
+  },
+  {
+    "nombre": "Medellín",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/8154/23692/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "USD323S/1,202",
+    "ubicacion": "Medellín"
+  },
+  {
+    "nombre": "Buenos Aires",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1625/23476/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "9 días/8 noches",
+    "precio": "USD492S/1,831",
+    "ubicacion": "Buenos Aires"
+  },
+  {
+    "nombre": "San Andrés",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1708/23680/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "8 días/7 noches",
+    "precio": "USD564S/2,099",
+    "ubicacion": "San Andrés"
+  },
+  {
+    "nombre": "Puerto Iguazú",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/7257/22624/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Puerto Iguazú"
+  },
+  {
+    "nombre": "Salta",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/5526/7899/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Salta"
+  },
+  {
+    "nombre": "São Paulo",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1665/23622/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "8 días/7 noches",
+    "precio": "USD444S/1,653",
+    "ubicacion": "São Paulo"
+  },
+  {
+    "nombre": "Punta Sal",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/47223/18753/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "USD860S/3,201",
+    "ubicacion": "Punta Sal"
+  },
+  {
+    "nombre": "Búzios",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/7331/12621/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "8 días/7 noches",
+    "precio": "USD595S/2,215",
+    "ubicacion": "Búzios"
+  },
+  {
+    "nombre": "Santa Catarina",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/7341/9668/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Santa Catarina"
+  },
+  {
+    "nombre": "San Juan",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/8283/19219/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "San Juan"
+  },
+  {
+    "nombre": "Santiago de Chile",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1673/18239/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "8 días/7 noches",
+    "precio": "USD289S/1,076",
+    "ubicacion": "Santiago de Chile"
+  },
+  {
+    "nombre": "Los Cabos",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/5760/23426/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Los Cabos"
+  },
+  {
+    "nombre": "La Habana",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1739/23445/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "7 días/6 noches",
+    "precio": "USD700S/2,606",
+    "ubicacion": "La Habana"
+  },
+  {
+    "nombre": "San Andrés",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/1708/23680/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "8 días/7 noches",
+    "precio": "USD564S/2,099",
+    "ubicacion": "San Andrés"
+  },
+  {
+    "nombre": "Miami",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/6746/23172/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "9 días/8 noches",
+    "precio": "USD783S/2,915",
+    "ubicacion": "Miami"
+  },
+  {
+    "nombre": "Bayahibe",
+    "imagen": "https://www.atrapalo.pe/common/photo/d/598/20510/ticr_200_88.jpg",
+    "tipo": "vuelo+hotel",
+    "duracion": "6 días/5 noches",
+    "precio": "",
+    "ubicacion": "Bayahibe"
+  }
+]
